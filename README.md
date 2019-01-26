@@ -1,2 +1,2 @@
 # wallet-manager
-Manage your daily transaction
+Manage your daily transactions
